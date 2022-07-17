@@ -12,18 +12,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94784997828']
-global.premium = ['94784997828']
-global.ownernomer = '94784997828'
-global.ownername = '𝘾𝙔𝘽𝙀𝙍 𝙆𝙄𝙉𝙂'
-global.botname = '[🕊️𝙲𝚈𝙱𝙴𝚁-𝙺𝙸𝙽𝙶-𝙱𝙾𝚃🕊️]'
-global.footer = 'POWERED BY CYBER KING'
+global.owner = ['94781544996']
+global.premium = ['94781544996']
+global.ownernomer = '94781544996'
+global.ownername = '꧁❦⃢͢ᴘ̽͢ʀ̽͢ɪ̽͢ʏ̽͢ᴀ̽͢ɴ̽͢ɢ̽͢ᴀ⃢̽❦꧂'
+global.botname = '[🕊️༺ᴘͯʀͯɪͯʏͯᴀͯɴͯɢͯᴀͯ༻🕊️]'
+global.footer = 'POWERED BY ꧁❦⃢͢ᴘ̽͢ʀ̽͢ɪ̽͢ʏ̽͢ᴀ̽͢ɴ̽͢ɢ̽͢ᴀ⃢̽❦꧂'
 global.ig = 'https://github.com/CyberKing4'
 global.region = 'Sri Lanka'
-global.sc = 'https://github.com/CyberKing4/CYBER-KING-BOT'
-global.myweb = 'https://youtube.com/channel/UCRt-7UDMMcfjunuZwZi481Q'
-global.packname = '[🕊️𝙲𝚈𝙱𝙴𝚁-𝙺𝙸𝙽𝙶-𝙱𝙾𝚃🕊️]'
-global.author = '𝘾𝙔𝘽𝙀𝙍 𝙆𝙄𝙉𝙂'
+global.sc = 'https://github.com/PRIYANGAPriya1107/CyberKing4/CYBER-KING-BOT'
+global.myweb = 'https://youtube.com/channel/UCn0BtDyH_PgXzBmE-NQCgHw'
+global.packname = '[🕊️꧁❦⃢͢ᴘ̽͢ʀ̽͢ɪ̽͢ʏ̽͢ᴀ̽͢ɴ̽͢ɢ̽͢ᴀ⃢̽❦꧂🕊️]'
+global.author = '꧁❦⃢͢ᴘ̽͢ʀ̽͢ɪ̽͢ʏ̽͢ᴀ̽͢ɴ̽͢ɢ̽͢ᴀ⃢̽❦꧂'
 global.sessionName = 'session'
 global.reactmoji = '🎭'
 global.prefa = ['','!','.','🇱🇰','⚙️','🤘']
